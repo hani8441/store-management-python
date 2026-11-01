@@ -15,7 +15,7 @@ while select==True:
     print("4.edit")
     print("5.delete")
     print("6.calculate")
-    print("7.exit")
+    print("7..exit")
     try:
         num=int(input("num:"))
         if num==1:
